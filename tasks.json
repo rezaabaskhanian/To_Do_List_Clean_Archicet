@@ -1,0 +1,38 @@
+[
+    {
+        "task_id": 1,
+        "title": "Learn Python",
+        "description": "Learn the basics of Python programming.",
+        "completed": false
+    },
+    {
+        "task_id": 2,
+        "title": "Do Homework",
+        "description": "Complete math homework.",
+        "completed": false
+    },
+    {
+        "task_id": 1,
+        "title": "Learn Python",
+        "description": "Learn the basics of Python programming.",
+        "completed": false
+    },
+    {
+        "task_id": 2,
+        "title": "Do Homework",
+        "description": "Complete math homework.",
+        "completed": false
+    },
+    {
+        "task_id": 1,
+        "title": "Learn Python",
+        "description": "Learn the basics of Python programming.",
+        "completed": false
+    },
+    {
+        "task_id": 2,
+        "title": "Do Homework",
+        "description": "Complete math homework.",
+        "completed": false
+    }
+]
