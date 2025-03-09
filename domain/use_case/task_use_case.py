@@ -1,5 +1,5 @@
 from infrastructure.task_repository import TaskRepository
-from domain.entities import Task
+from domain.entitties.entities import Task
 
 class TaskUseCase:
     def __init__(self):

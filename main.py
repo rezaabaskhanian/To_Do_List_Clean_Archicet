@@ -1,5 +1,5 @@
 # main.py
-from domain.task_use_case import TaskUseCase
+from domain.use_case.task_use_case import TaskUseCase
 
 def main():
     task_use_case = TaskUseCase()

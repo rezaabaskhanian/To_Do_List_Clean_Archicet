@@ -1,7 +1,7 @@
 import click
-from domain.entities import Task
+from domain.entitties.entities import Task
 from infrastructure.task_repository import TaskRepository
-from domain.task_use_case import TaskUseCase
+from domain.use_case.task_use_case import TaskUseCase
 
 @click.group()
 def cli():

@@ -1,5 +1,5 @@
 import json
-from domain.entities import Task
+from domain.entitties.entities import Task
 
 class TaskRepository:
     def __init__(self, filename="tasks.json"):
